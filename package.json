@@ -1,0 +1,13 @@
+{
+  "name": "github-webhook-lambda-api-slack",
+  "version": "1.0.0",
+  "description": "GitHubのWebHook機能を使って、AWS Lambdaを実行し、Slackに通知を行う",
+  "main": "index.js",
+  "directories": {},
+  "scripts": {},
+  "author": "Tucker",
+  "license": "ISC",
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1"
+  }
+}
